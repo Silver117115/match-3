@@ -1,0 +1,7 @@
+*.asset binary
+*.unity binary
+*.prefab binary
+*.meta binary
+*.json binary
+*.dwlt binary
+*.settings binary
