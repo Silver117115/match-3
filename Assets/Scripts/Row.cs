@@ -1,6 +1,7 @@
 using UnityEngine;
 
-public class NewEmptyCSharpScript
-{
-    
-}
+
+    public sealed class Row : MonoBehaviour
+    {
+        public Tile[] tiles;
+    }
