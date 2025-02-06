@@ -1,0 +1,29 @@
+# Ignorar la carpeta Library (que contiene caché y archivos temporales)
+[Ll]ibrary/
+
+# Ignorar la carpeta Temp (contenedor de archivos temporales)
+[Tt]emp/
+
+# Ignorar archivos de la build
+[Bb]uild/
+[Bb]uilds/
+
+# Ignorar archivos de log
+[Ll]ogs/
+
+# Ignorar Asset Store Tools (si tienes el paquete de Asset Store)
+[Aa]ssets/AssetStoreTools*
+
+# Ignorar archivos de la carpeta obj
+[Oo]bj/
+
+# Ignorar configuraciones de usuario de Unity
+.vs/
+.idea/
+.vscode/
+
+# Ignorar archivos de autoguardado y de sesión de Unity
+*.pidb
+*.suo
+*.user
+*.userprefs
